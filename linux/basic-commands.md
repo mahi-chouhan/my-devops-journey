@@ -5,3 +5,10 @@
 - pwd
 - mkdir
 - rm
+
+
+## Process Commands
+
+- ps
+- top
+- kill
